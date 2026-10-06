@@ -17,7 +17,7 @@ This is how the original logo (and many other assets of the game, from the site'
 
 First, we'll go to [Photopea](https://www.photopea.com/). Other image software such as Photoshop may work as well, but this tutorial is for this site specifically as it is free to use.
 
-To start, tile this texture as large as you need to fit your logo:
+To start, tile this texture (you can just repeatedly paste & move) until it's as large as you need to fit your logo:
 
 ![UCG logo background](../../../assets/guides/custom_ucg_logo/tileable.png)
 
